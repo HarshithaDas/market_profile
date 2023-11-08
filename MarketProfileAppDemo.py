@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 12 17:57:42 2021
-
-@author: Teo Bee Guan
-"""
-
 import pandas as pd
 import yfinance as yf
 import streamlit as st
